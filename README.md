@@ -7,7 +7,7 @@ Data Scientist & Engineer
 I have a computer engineering background and a postgraduate degree in AI. I'm always learning something new, and I'm really happy that we have access to fantastic sources through the Internet. I have been in the data world for 3 years, and I love to make a positive impact wherever I can, either through analysis, building models or data pipelines. I feel fresh when I wrangle with data and make stories out of them.
 
 *   🌍  I'm based in Toronto
-*   🖥️  See my portfolio at [shayanhodai.com](http://shayanhodai.com/)
+*   🖥️  See my portfolio at [shayanhodai.com](http://www.shayanhodai.com/)
 *   ✉️  You can contact me at [shayan.hodai@gmail.com](mailto:shayan.hodai@gmail.com)
 *   🤝  I'm open to collaborating on financial analysis, environmental sustainability, or health data projects
 *   ⚡  I play electronic musics!
