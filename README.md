@@ -10,7 +10,7 @@ I have a computer engineering background and a postgraduate degree in AI. I'm al
 *   🖥️  See my portfolio at [shayanhodai.com](http://www.shayanhodai.com/)
 *   ✉️  You can contact me at [shayan.hodai@gmail.com](mailto:shayan.hodai@gmail.com)
 *   🤝  I'm open to collaborating on financial analysis, environmental sustainability, or health data projects
-*   ⚡  I play electronic musics!
+*   ⚡  I play electronic musics! [soundcloud](http://soundcloud.com/leeloo02)
 
 ### Skills 
 <p align="left">
