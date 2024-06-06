@@ -4,7 +4,7 @@ Hi 👋 My name is Shayan
 Data Scientist & Engineer
 -------------------------
 
-I have a computer engineering background and a postgraduate degree in AI. I'm always learning something new, and I'm really happy that we have access to fantastic sources through the Internet. I have been in the data world for 3 years, and I thrive to make a positive impact wherever I can, either through analysis, building models or data pipelines. I feel fresh when I wrangle with data and make stories out of them.
+I have a computer engineering background with a postgraduate degree in AI. I'm always learning something new, and I'm really happy that we have access to fantastic sources through the Internet. With over three years of experience I thrive to make a positive impact wherever I can, either through analysis, building predictive models, or data pipelines. I enjoy wrangling with data and make stories out of them.
 
 *   🖥️  See my website at [shayanhodai.com](http://www.shayanhodai.com/)
 *   ✉️  You can contact me at [shayan.hodai@outlook.com](mailto:shayan.hodai@outlook.com)
