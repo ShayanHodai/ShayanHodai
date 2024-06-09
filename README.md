@@ -6,7 +6,7 @@ Data Scientist & Engineer
 
 I have a computer engineering background with a postgraduate degree in AI. I'm always learning something new, and I'm really happy that fantastic sources are accessible through the Internet. With over 3 years of experience I thrive to make a positive impact wherever I can, either through analysis, building predictive models, or data pipelines. I enjoy wrangling with data and make stories out of them.
 
-*   🖥️  See my website at [shayanhodai.com](http://www.shayanhodai.com/)
+*   🖥️  See my portfolio at [shayanhodai.com](http://www.shayanhodai.com/)
 *   ✉️  You can contact me at [shayan.hodai@outlook.com](mailto:shayan.hodai@outlook.com)
 *   🤝  I'm open to collaborating on financial analysis, environmental sustainability, or health data projects
 *   ⚡  I play electronic music! [soundcloud](http://soundcloud.com/leeloo02)
